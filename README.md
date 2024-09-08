@@ -1,6 +1,6 @@
-# Italian_Mushroom_Landing_Page
+# Italian_Fast_Food_Landing_Page
 
-This repository contains the code for a landing page designed for an Italian food website. The project showcases an elegant and responsive design to highlight authentic Italian mushroom dishes and promote the restaurant's offerings.
+This repository contains the code for a landing page designed for an Italian fast food website. The project showcases an elegant and responsive design to highlight authentic Italian fast food dishes and promote the restaurant's offerings.
 
 ## Features
 
@@ -9,7 +9,7 @@ This repository contains the code for a landing page designed for an Italian foo
 A fully responsive and modern landing page design that provides an optimal user experience on both mobile and desktop devices.
 
 #### Attractive Visuals
-Eye-catching visuals and layout that highlight the restaurant's signature Italian mushroom dishes.
+Eye-catching visuals and layout that highlight the restaurant's signature Italian fast food dishes.
 
 #### Call-to-Action Sections
 Prominent call-to-action buttons encouraging users to make reservations or explore the menu.
