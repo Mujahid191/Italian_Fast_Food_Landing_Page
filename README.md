@@ -2,6 +2,8 @@
 
 This repository contains the code for a landing page designed for an Italian fast food website. The project showcases an elegant and responsive design to highlight authentic Italian fast food dishes and promote the restaurant's offerings.
 
+[**Explore the Demo**](https://mujahid191.github.io/Italian_Fast_Food_Landing_Page/)
+
 ## Features
 
 ### Frontend
