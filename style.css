@@ -1,0 +1,338 @@
+html {
+  font-size: 62.2%;
+}
+body {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  color: #ffffff !important;
+}
+* {
+  font-family: "Open Sans", sans-serif;
+}
+/* Website Colors Class */
+.zp {
+  color: #212227;
+}
+.fp {
+  font-family: "reey-regular", sans-serif !important;
+}
+.fs {
+  font-family: "Montserrat", sans-serif !important;
+}
+.tu {
+  text-transform: uppercase !important;
+}
+.tc {
+  text-transform: capitalize !important;
+}
+.ti {
+  font-style: italic !important;
+}
+/* Website Header Part */
+.hp {
+  background-image: url(Images/h-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+/* Navbar Style */
+.nav-link {
+  font-size: 1.6rem;
+  color: #ffffff !important;
+  padding: 0% 25px !important;
+  margin-top: 3px !important;
+  letter-spacing: 2px;
+}
+.nav-link:hover {
+  color: darkorange !important;
+}
+.srb {
+  border-radius: 50px !important;
+  font-size: 1rem !important;
+}
+.srb:hover {
+  background-color: darkorange !important;
+  color: white !important;
+}
+/* Site-logo */
+.site-l {
+  margin: 30px 0px 20px 60px !important;
+}
+/* Website Part A */
+.al {
+  padding: 20px 0px 30px 60px !important;
+}
+.alh1 {
+  font-size: 9.1rem !important;
+  margin-left: 30px;
+  margin-top: 80px !important;
+}
+.alh2 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin: 100px 0px 0px;
+}
+.alb1 {
+  font-size: 2.4rem !important;
+  font-weight: bolder !important;
+  border-radius: 40px !important;
+  padding: 10px 30px !important;
+  margin-top: 40px;
+}
+.alb1:hover {
+  background-color: darkorange !important;
+  color: white !important;
+}
+.alp1 {
+  font-size: 2rem;
+  margin-top: 25px;
+}
+.ar {
+  margin-top: -50px !important;
+}
+.pizza:hover,
+.hi1:hover {
+  transform: scale(0.9);
+  transition: all 1s ease-in-out;
+}
+.hi2 {
+  position: absolute;
+  right: 0px;
+  top: 60%;
+  width: 70%;
+  overflow: hidden;
+}
+/* Webiste Part B */
+.pb {
+  margin-top: 73px !important;
+}
+.bi1,
+.di1,
+.di2,
+.bi2,
+.bi3 {
+  animation: i 30s linear infinite;
+}
+@keyframes i {
+  0% {
+    transform: rotate(0deg);
+  }
+  50% {
+    transform: rotate(45deg);
+  }
+}
+.bh1 {
+  font-size: 7.5rem;
+  margin-top: 40px;
+}
+.bp1 {
+  font-size: 2.7rem;
+  margin: 55px 0px 70px 0px !important;
+}
+/* Website Part Card Section */
+.bh2a {
+  font-size: 2.9rem !important;
+  font-weight: bold !important;
+  margin-left: 50px !important;
+}
+.bp2a {
+  font-size: 2.2rem !important;
+  margin-left: 50px !important;
+}
+.bbt1 {
+  font-size: 2.3rem !important;
+  font-weight: bolder !important;
+  padding: 10px 50px !important;
+  border-radius: 50px !important;
+  margin: 120px 0px 50px 0px !important;
+}
+/* Website Part C */
+.pc {
+  background-color: #27292c !important;
+  padding-top: 48px !important;
+}
+.cp {
+  font-size: 2rem;
+  padding: 50px 0px 70px 0px !important;
+}
+.cbt1 {
+  font-size: 2.6rem !important;
+  padding: 5px 30px 5px 30px !important;
+  border-radius: 40px !important;
+  font-weight: bold !important;
+  margin-bottom: 70px !important;
+}
+.cbt1:hover {
+  background-color: darkorange !important;
+  color: #ffffff !important;
+}
+/* Website Part D */
+.pd {
+  margin-top: 55px !important;
+}
+.dr {
+  margin-top: 80px !important;
+}
+.dh1 {
+  font-size: 5.8rem;
+  font-weight: bold;
+}
+.dp1 {
+  font-size: 2.9rem;
+  margin: 30px 0px !important;
+}
+.dbt1 {
+  font-size: 2.3rem !important;
+  font-weight: bolder !important;
+  padding: 10px 50px !important;
+  border-radius: 50px !important;
+}
+.pd2 {
+  margin-top: 40px !important;
+}
+.pdl {
+  margin-top: 70px !important;
+}
+/* Website Part E */
+.eh1 {
+  font-size: 5.8rem;
+}
+.pe {
+  background-image: url(Images/pe-bg.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: relative;
+}
+.pe-bg {
+  position: absolute;
+  right: 1%;
+  top: -14%;
+}
+.et {
+  padding-top: 113px !important;
+}
+.ep1 {
+  font-size: 2.5rem !important;
+  margin-top: 65px !important;
+}
+.pizza {
+  margin-top: 35px !important;
+}
+/* website Part F */
+.fh1 {
+  font-size: 4.1rem;
+  margin-bottom: 25px !important;
+}
+.fp1 {
+  font-size: 1.8rem;
+}
+.fp2 {
+  font-size: 2.5rem;
+  margin-top: 180px;
+  font-weight: bold;
+}
+.fh3 {
+  font-size: 2.5rem;
+  margin-top: 65px !important;
+  font-weight: bold;
+}
+/* Webiste Part G */
+.pg {
+  background-color: #27292c;
+  background-repeat: no-repeat;
+  background-size: contain;
+  min-height: 800px !important;
+  margin-top: 180px !important;
+  position: relative;
+}
+.pgp {
+  position: absolute;
+  z-index: 10;
+}
+.pgt {
+  margin-top: 180px !important;
+}
+.gh1 {
+  font-size: 7.5rem;
+  font-weight: bold;
+}
+.gp1 {
+  font-size: 2.9rem;
+  margin-top: 50px !important;
+}
+.subs {
+  padding: 40px 0px !important;
+}
+.finput,
+.bti {
+  padding: 10px 30px !important;
+  font-size: 2rem !important;
+  border-radius: 50px !important;
+}
+.bti {
+  background-color: #54524f !important;
+  color: #ffffff !important;
+  font-weight: bold !important;
+  margin-left: -70px !important;
+}
+.bti:hover {
+  background-color: #ffffff !important;
+  color: black !important;
+  transition: all 1s ease-in-out;
+}
+.g-i1 {
+  position: absolute;
+  top: -8%;
+  z-index: 1;
+  right: 0%;
+}
+/* Website Footer */
+.ph {
+  margin-top: 300px !important;
+  padding-bottom: 100px !important;
+}
+.hh1 {
+  font-size: 3.1rem;
+  padding: 20px 0px;
+}
+.hp1 {
+  font-size: 2.3rem;
+}
+.icons {
+  margin-top: 15px !important;
+}
+.ic1,
+.ic2,
+.ic3,
+.ic4 {
+  margin: 0px 5px;
+  font-size: 2.2rem !important;
+  background-color: #54524f !important;
+  color: white;
+  border-radius: 50px;
+}
+.ic1 {
+  padding: 9px 11px;
+}
+.ic2 {
+  padding: 9px 14px;
+}
+.ic3 {
+  padding: 9px;
+}
+.ic4 {
+  padding: 9px 11px;
+}
+.fa:hover {
+  background-color: darkorange !important;
+  transform: translateY(-0.8rem);
+  transition: all 0.5s ease-in-out;
+}
+.hh2 {
+  font-size: 2.3rem;
+}
+.hh2:hover {
+  color: darkorange !important;
+  transition: all 1s;
+}
